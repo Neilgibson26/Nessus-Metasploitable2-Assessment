@@ -30,13 +30,10 @@ This project demonstrates a practical vulnerability assessment workflow using **
 
 ---
 
-## 🔎 Key Vulnerabilities Identified
+## 🔐 Selected Vulnerabilities
 
-| Vulnerability            | CVE ID        | Severity | Affected Port | Description                                |
-| ------------------------ | ------------- | -------- | ------------- | ------------------------------------------ |
-| vsftpd Backdoor          | CVE-2011-2523 | Critical | 21 (FTP)      | Backdoored FTP daemon allowing remote shel |
-| Samba RCE                | CVE-2007-2447 | High     | 445 (SMB)     | Remote code execution via crafted requests |
-| Apache Directory Listing | -             | Medium   | 80 (HTTP)     | Directory contents exposed to web clients  |
+For a breakdown of 20 high- and critical-severity findings from the scan, see:  
+📄 [VULNERABILITIES.md](./VULNERABILITIES.md)
 
 🔗 **Full Report**: [nessus_scan_report.pdf](./Advanced_Vulnerability_Scan-Metasploitable2_Report.pdf)
 
@@ -59,8 +56,6 @@ This project demonstrates a practical vulnerability assessment workflow using **
 ## 🛠️ Next Steps
 
 - Perform safe exploitation using Metasploit Framework
-- Document remediation strategies for each vulnerability
-- Expand this project to assess hardened systems for comparison
 
 ---
 
