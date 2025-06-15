@@ -226,7 +226,7 @@ An unauthenticated, remote attacker can exploit this to cause degrade the servic
 - **Description**: By appending various suffixes (ie: .old, .bak, ~, etc...) to the names of various files on the remote host, it seems possible to retrieve their contents, which may result in disclosure of sensitive information.
 - **Suggested Fix**:
 
-  - Ensure the files do not contain any sensitive information, such as credentials to connect to a database, and delete or protect those files that should not be accessible.
+  - Ensure the files do not contain any sensitive information, such as credentials to connect to a database, and delete or protect those files that should not be accessible. Additionally, scan for leftover backup files duriong redeployment.
   </details>
   <details>
   <summary><strong>19. PHP expose_php Information Disclosure </strong> (N/A) </summary>
