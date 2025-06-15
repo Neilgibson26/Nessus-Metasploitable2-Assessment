@@ -99,7 +99,7 @@
 - **Severity**: Critical
 - **Affected Service**: IRC (Internet Relay Chat)
 - **Affected Port**: N/A
-- **Description**: Version of UnrealIRC was downloaded from a mirror site. This version contains a Trojan Horse which can be used by an attacker to execute abritrary code from a remote machine
+- **Description**: Version of UnrealIRC was downloaded from a mirror site. This version contains a Trojan Horse which can be used by an attacker to execute arbitrary code from a remote machine
 - **Suggested Fix**:
   - Uninstall UnrealIRC and verify the MD5/SHA before redownloading it from the official website.
 
@@ -110,7 +110,7 @@
 - **Severity**: Medium
 - **Affected Service**: DNS server
 - **Affected Port**: 53
-- **Description**: The remote DNS server responds to queries for third-party domains that do not have the recursion bit set. This may allow a remote attacker to determine which domains have recently been resolved via this name server, and therefore which hosts have been recently visited. An might find this information useful.
+- **Description**: The remote DNS server responds to queries for third-party domains that do not have the recursion bit set. This may allow a remote attacker to determine which domains have recently been resolved via this name server, and therefore which hosts have been recently visited. An attacker might find this information useful.
 - **Suggested Fix**:
   - Contact DNS software vendor for a fix
 
@@ -134,7 +134,7 @@
 - **Affected Port**: 80/443
 - **Description**: This plugin checks expiry dates of certificates associated with SSL- enabled services on the target and reports whether any have already expired. Expired SSL certificates cannot be verified
 - **Suggested Fix**:
-  - Purchase or generate a new SSL certificate to replace the existing one.
+  - Obtain and install a valid SSL certificate to replace the existing one.
 
 </details>
 <details>
