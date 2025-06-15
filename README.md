@@ -35,7 +35,7 @@ This project demonstrates a practical vulnerability assessment workflow using **
 For a breakdown of 20 high- and critical-severity findings from the scan, see:  
 📄 [VULNERABILITIES.md](./VULNERABILITIES.md)
 
-## 📄 Vulnerability Risk Matrix
+📄 **Vulnerability Risk Matrix**
 
 ![Vulnerability_Risk_Matrix](./Screenshots/Vulnerability_Risk_Matrix.jpeg)
 
