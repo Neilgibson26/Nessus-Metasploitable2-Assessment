@@ -1,5 +1,7 @@
 ## 🔐 Selected Vulnerability Analysis (20 of 154)
 
+These are selected findings from a vulnerability scan against a legacy Linux-based infrastructure (Metasploitable2).
+
 <details>
 <summary><strong>1. Apache PHP-CGI Remote Code Execution</strong> (CVE-2024-4577)</summary>
 
