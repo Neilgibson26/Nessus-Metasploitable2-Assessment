@@ -26,7 +26,7 @@ This project demonstrates a practical vulnerability assessment workflow using **
 
 - **Target IP**: `192.168.64.7`
 - **OS**: Ubuntu-based Linux (Metasploitable2)
-- **Discovered Ports**: 21 (FTP), 22 (SSH), 23 (Telnet), 80 (HTTP), 139/445 (SMB),TO BE COMPLETE
+- **Discovered Ports**: 21 (FTP), 22 (SSH), 23 (Telnet), 25 (SMTP), 80 (HTTP), 139/445 (SMB), 3306 (MySQL), 5432 (PostgreSQL)
 
 ---
 
@@ -43,7 +43,7 @@ For a breakdown of 20 high- and critical-severity findings from the scan, see:
 
 ---
 
-## 📄 Sample Findings Screenshot
+## 📄 Findings Screenshots
 
 ![Nessus Scan Summary](./Screenshots/nessus_summary.png)
 
