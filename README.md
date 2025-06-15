@@ -35,7 +35,8 @@ This project demonstrates a practical vulnerability assessment workflow using **
 For a breakdown of 20 high- and critical-severity findings from the scan, see:  
 📄 [VULNERABILITIES.md](./VULNERABILITIES.md)
 
-For a visualisation of my vulnerability risk matrix, see:
+## 📄 Vulnerability Risk Matrix
+
 ![Vulnerability_Risk_Matrix](./Screenshots/Vulnerability_Risk_Matrix.jpeg)
 
 🔗 **Full Report**: [nessus_scan_report.pdf](./Advanced_Vulnerability_Scan-Metasploitable2_Report.pdf)
