@@ -74,7 +74,7 @@ For a breakdown of 20 high- and critical-severity findings from the scan, see:
 
 ## 🧾 Contact
 
-_Created by [Your Name]_  
+\_Created by Neil Gibson  
 🔗 [LinkedIn](https://www.linkedin.com/in/neil-gibson-539ab7153/)  
 📧 1neilgibson1@gmail.com  
 📁 Portfolio: [Github](https://github.com/Neilgibson26)
