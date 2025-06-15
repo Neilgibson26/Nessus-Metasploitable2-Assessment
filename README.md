@@ -71,7 +71,7 @@ For a breakdown of 20 high- and critical-severity findings from the scan, see:
 2. Ensure both are on the same virtual network
 3. Install Nessus on Kali:  
    [Nessus Download & Install](https://www.tenable.com/products/nessus)
-4. Activate and scan Metasploitable2 (`192.168.64.7`)
+4. Activate and scan Metasploitable2 (`Whatever IP your virtual environment has given the machine`)
 5. Export and analyze results
 
 ---
